@@ -1,0 +1,9 @@
+﻿  源.cpp
+d:\jinda\jdbp2\jdbp\bpnet.h(80): warning C4042: 'sampleGroup': has bad storage class
+d:\jinda\jdbp2\jdbp\bpnet.h(83): warning C4042: 'sampleIn': has bad storage class
+d:\jinda\jdbp2\jdbp\bpnet.h(84): warning C4042: 'sampleOut': has bad storage class
+d:\jinda\jdbp2\jdbp\源.cpp(133): warning C4018: '<': signed/unsigned mismatch
+d:\jinda\jdbp2\jdbp\源.cpp(186): warning C4018: '<': signed/unsigned mismatch
+d:\jinda\jdbp2\jdbp\源.cpp(191): warning C4018: '<': signed/unsigned mismatch
+  JDBP.vcxproj -> D:\jinda\JDBP2\Debug\JDBP.exe
+  JDBP.vcxproj -> D:\jinda\JDBP2\Debug\JDBP.pdb (Full PDB)
